@@ -2,7 +2,7 @@
 ## Purpose
 
 To analyse the results of test scores for reading and math across a school board. The analysis has been grouped by spending per student, school size and school type. This analysis is intended to provide insight to how test results vary by grade and by circumstances at the school (budget, size, and school type). 
-A secondary analysis has been performed after there was cause for concern that the data from grade 9 student at Thomas High School showed evidence of academic dishonesty. Both analyses have been detailed below with discussion surrounding how the analysis changes with the removal of this data. 
+A secondary analysis has been performed after there was cause for concern that the data from grade 9 students at Thomas High School showed evidence of academic dishonesty. Both analyses have been detailed below with discussion surrounding how the analysis changes with the removal of this data. 
 
 
 ## Results
@@ -18,7 +18,7 @@ Comparing the Original District Summary to the Adjusted District Summary you can
 
 * School summary impacts 
 
-In the original analysis you can see that Thomas High School had an average math score of 83.41, an average reading score 83.84 a passing math percentage of 93.27 and a passing reading score of 97.31  and  overall passing rate of 90.94%
+In the original analysis you can see that Thomas High School had an average math score of 83.41, an average reading score of 83.84, a passing math percentage of 93.27, a passing reading score of 97.31  and an overall passing rate of 90.94%
 
 #### Original School Summary
 ![School Summary OLD](https://user-images.githubusercontent.com/85718354/126075087-68f1b0ac-4303-453a-ab51-5a0280aa485e.JPG)
