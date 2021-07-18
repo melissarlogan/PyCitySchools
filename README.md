@@ -16,7 +16,7 @@ Comparing the Original District Summary to the Adjusted District Summary you can
 #### Adjusted District Summary
 ![District Summary NEW](https://user-images.githubusercontent.com/85718354/126074453-a50425cc-c93f-4af0-bbd7-8e0acb2aeb17.JPG)
 
-### * School summary impacts 
+* School summary impacts 
 
 In the original analysis you can see that Thomas High School had an average math score of 83.41, an average reading score 83.84 a passing math percentage of 93.27 and a passing reading score of 97.31  and  overall passing rate of 90.94%
 
@@ -32,7 +32,7 @@ Average math drops slightly to 83.35 and average reading increases to 83.89 whil
 This shows that with the removal of the grade 9 scores the school’s overall rates dropped, but that the school is still high performing across the other grades accounting for the minor changes.
 
 
-### * Replacing ninth graders’ math and reading from Thomas High School performance impacts
+* Replacing ninth graders’ math and reading from Thomas High School performance impacts
 
 Relative to other schools in the original analysis Thomas High School was listed 2nd overall with an overall passing rate of 90.94%. When the analysis is redone removing the grade 9 students, their overall passing rate drops to 90.63% but their overall standing remains 2nd. 
 
@@ -44,7 +44,8 @@ Replacing the math and reading scores by grades puts a nan value within the tabl
 ![math scores by grade](https://user-images.githubusercontent.com/85718354/126075573-08a247bb-b5d8-4700-b998-5c3af86fbfa3.JPG)
 ![reading scores by grade](https://user-images.githubusercontent.com/85718354/126075574-25874cda-9e31-402e-adc1-565839fdb0c7.JPG)
 
-### * Scores by school spending
+* Scores by school spending
+
 In the tables below you can see the there is no change in the passing rates from the removal of the grade 9 students, there would be slight changes in this list at the decimal place level, however from a high-level review that is not significant. This list shows a trend, in that passing scores are higher in schools with lesser budgets per student.
 
 #### Original Scores by Spending
@@ -55,7 +56,8 @@ In the tables below you can see the there is no change in the passing rates from
 ![scores by spending NEW](https://user-images.githubusercontent.com/85718354/126076397-ac0e730b-a061-4756-8d4d-012ca3e71157.JPG)
 
 
-### * Scores by school size
+* Scores by school size
+
 With the removal of the grade 9 students at Thomas High School, there is no high-level changes to the overall review of the scores by school size. We can see a large change in overall passing, where small and medium sized schools do significantly better than large schools in terms of overall passing rates. 
 
 #### Original Scores by Size
@@ -65,7 +67,8 @@ With the removal of the grade 9 students at Thomas High School, there is no high
 ![Size Summary New](https://user-images.githubusercontent.com/85718354/126076475-daf753c5-68e8-4b4e-b1a0-798a8aa56ade.JPG)
 
 
-### * Scores by school type
+* Scores by school type
+
 In this analysis, old and new, we see that charter schools perform better than district schools. The removal of Thomas High School grade 9 students makes no impact to this. 
 #### Original Scores by Type
 ![type old](https://user-images.githubusercontent.com/85718354/126075892-61f5e6d9-b93e-4452-8ed4-a422429c919d.JPG)
