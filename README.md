@@ -37,7 +37,8 @@ This shows that with the removal of the grade 9 scores the school’s overall ra
 Relative to other schools in the original analysis Thomas High School was listed 2nd overall with an overall passing rate of 90.94%. When the analysis is redone removing the grade 9 students, their overall passing rate drops to 90.63% but their overall standing remains 2nd. 
 
 ## How does replacing the ninth-grade scores affect the following:
-### * Math and reading scores by grade.
+* Math and reading scores by grade.
+
 Replacing the math and reading scores by grades puts a nan value within the tables as shown below. This is because we didn’t 0 out the grades, as that would have negatively impacted our analysis by taking those 0’s and including them in the averages above bringing them inaccurately down. But using a nan value these amounts are skipped in calculations.
 
 #### Math and Reading Scores by Grade
